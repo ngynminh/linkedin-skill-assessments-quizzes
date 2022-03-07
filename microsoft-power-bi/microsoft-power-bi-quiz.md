@@ -522,3 +522,22 @@ D. They must have no duplicate data rows.
 - [ ] A, B, C, D
 - [ ] A, C, D
 - [ ] B, D
+
+#### Q66. What are the first steps to connect to a data table on Wikipedia from Power BI Desktop?
+
+- [ ] Get Data > OData feed > Web URL
+- [ ] Get Data > Web Table > Enter Web URL
+- [x] Get Data > Web > Enter Web URL
+- [ ] Get Data > Data Source > Enter Web URL
+
+#### Q67. When creating a new relationship between the Continents and Countries tables, this error is returned: "One of the columns must have unique values." How can you fix this? (Select all that apply.)
+
+    A. Add another table with unique key values.
+    B. Remove duplicate rows so the Countries table has a column with unique IDs.
+    C. Remove duplicate rows so the Continents table has a column with unique IDs.
+    D. Correct the cardinality of the relationship.
+
+- [ ] A, B
+- [ ] A, C, D
+- [ ] B, C
+- [ ] B, C, D
